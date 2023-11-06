@@ -1,0 +1,63 @@
+m :/obj/bush.obj bush
+m :/obj/bush2.obj bush2
+m :/obj/bush3.obj bush3
+m :/obj/environment_1.obj env1
+m :/obj/grass1.obj grass1
+m :/obj/grass2.obj grass2
+m :/obj/log1.obj log1
+m :/obj/log2.obj log2
+m :/obj/log3.obj log3
+m :/obj/mountain1.obj mountain1
+m :/obj/mountain2.obj mountain2
+m :/obj/mountain3.obj mountain3
+m :/obj/plant1.obj plant1
+m :/obj/plant2.obj plant2
+m :/obj/plant3.obj plant3
+m :/obj/plant4.obj plant4
+m :/obj/plant5.obj plant5
+m :/obj/plant6.obj plant6
+m :/obj/plant7.obj plant7
+m :/obj/rock1.obj rock1
+m :/obj/rock2.obj rock2
+m :/obj/rock3.obj rock3
+m :/obj/rock4.obj rock4
+m :/obj/rock5.obj rock5
+m :/obj/rock6.obj rock6
+m :/obj/terrain1.obj terrain1
+m :/obj/terrain2.obj terrain2
+m :/obj/tree.obj tree
+m :/obj/tree2.obj tree2
+m :/obj/tree3.obj tree3
+m :/obj/treesmooth.obj treesmooth
+m :/cube.obj cube
+m :/brickwall.obj brickwall
+m :/lamp.obj lamp
+lo lamp 0 15 0 30 1 0.7450980392 0.258823529
+lo cube 0 8 20 0.2
+lo cube 0 8 -20 0.2
+lo cube 20 8 0 0.2
+lo cube 20 8 20 0.2
+lo cube 20 8 -20 0.2
+lo cube -20 8 0 0.2
+lo cube -20 8 20 0.2
+lo cube -20 8 -20 0.2
+o terrain2 0 0 -50 3
+o tree 0 -6.5 0
+o treesmooth -10 -4 -7
+o tree 25 -4 11
+o tree 8 -5 -18
+o tree2 7 0 14
+o log3 13.0742 2.79655 -4.27275
+o rock5 -15.1449 2.18922 -15.8619
+o bush2 0 4 -5
+o bush3 0 6 10
+o bush 4 2.5 10
+o bush3 4 6 13
+o mountain1 -20 0 0
+o mountain2 -25 0 -10
+o rock1 0 0 0
+o rock2 -20 9 -8
+o rock3 4 -19 -13
+o rock4 10 0.5 16
+o rock5 0 0 0
+o brickwall 5 5 15

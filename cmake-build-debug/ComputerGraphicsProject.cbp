@@ -1,0 +1,238 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CodeBlocks_project_file>
+	<FileVersion major="1" minor="6"/>
+	<Project>
+		<Option title="ComputerGraphicsProject"/>
+		<Option makefile_is_custom="1"/>
+		<Option compiler="gcc"/>
+		<Option virtualFolders="CMake Files\;CMake Files\..\;CMake Files\..\..\;CMake Files\..\..\..\;CMake Files\..\..\..\..\;CMake Files\..\..\..\..\..\;CMake Files\..\..\..\..\..\..\;CMake Files\..\..\..\..\..\..\..\;CMake Files\..\..\..\..\..\..\..\qt\;CMake Files\..\..\..\..\..\..\..\qt\5.14.1\;CMake Files\..\..\..\..\..\..\..\qt\5.14.1\mingw73_64\;CMake Files\..\..\..\..\..\..\..\qt\5.14.1\mingw73_64\lib\;CMake Files\..\..\..\..\..\..\..\qt\5.14.1\mingw73_64\lib\cmake\;CMake Files\..\..\..\..\..\..\..\qt\5.14.1\mingw73_64\lib\cmake\Qt5Widgets\;CMake Files\..\..\..\..\..\..\..\qt\5.14.1\mingw73_64\lib\cmake\Qt5Gui\;CMake Files\..\..\..\..\..\..\..\qt\5.14.1\mingw73_64\lib\cmake\Qt5Core\;"/>
+		<Build>
+			<Target title="all">
+				<Option working_dir="C:/Users/Berne/Documents/Uhasselt/2e bachlor/Computer Graphics/ComputerGraphicsProject/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="C:/qt/Tools/mingw730_64/bin/mingw32-make.exe -f &quot;C:/Users/Berne/Documents/Uhasselt/2e bachlor/Computer Graphics/ComputerGraphicsProject/cmake-build-debug/Makefile&quot;  VERBOSE=1 all"/>
+					<CompileFile command="C:/qt/Tools/mingw730_64/bin/mingw32-make.exe -f &quot;C:/Users/Berne/Documents/Uhasselt/2e bachlor/Computer Graphics/ComputerGraphicsProject/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="C:/qt/Tools/mingw730_64/bin/mingw32-make.exe -f &quot;C:/Users/Berne/Documents/Uhasselt/2e bachlor/Computer Graphics/ComputerGraphicsProject/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="C:/qt/Tools/mingw730_64/bin/mingw32-make.exe -f &quot;C:/Users/Berne/Documents/Uhasselt/2e bachlor/Computer Graphics/ComputerGraphicsProject/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="ComputerGraphicsProject">
+				<Option output="C:/Users/Berne/Documents/Uhasselt/2e bachlor/Computer Graphics/ComputerGraphicsProject/cmake-build-debug/ComputerGraphicsProject.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="C:/Users/Berne/Documents/Uhasselt/2e bachlor/Computer Graphics/ComputerGraphicsProject/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add option="-DQT_WIDGETS_LIB"/>
+					<Add option="-DQT_GUI_LIB"/>
+					<Add option="-DQT_CORE_LIB"/>
+					<Add directory="C:/Users/Berne/Documents/Uhasselt/2e bachlor/Computer Graphics/ComputerGraphicsProject/cmake-build-debug"/>
+					<Add directory="C:/Users/Berne/Documents/Uhasselt/2e bachlor/Computer Graphics/ComputerGraphicsProject"/>
+					<Add directory="C:/Users/Berne/Documents/Uhasselt/2e bachlor/Computer Graphics/ComputerGraphicsProject/cmake-build-debug/ComputerGraphicsProject_autogen/include"/>
+					<Add directory="C:/qt/5.14.1/mingw73_64/include"/>
+					<Add directory="C:/qt/5.14.1/mingw73_64/include/QtWidgets"/>
+					<Add directory="C:/qt/5.14.1/mingw73_64/include/QtGui"/>
+					<Add directory="C:/qt/5.14.1/mingw73_64/include/QtANGLE"/>
+					<Add directory="C:/qt/5.14.1/mingw73_64/include/QtCore"/>
+					<Add directory="C:/qt/5.14.1/mingw73_64/./mkspecs/win32-g++"/>
+					<Add directory="C:/qt/Tools/mingw730_64/bin/../lib/gcc/x86_64-w64-mingw32/7.3.0/include/c++"/>
+					<Add directory="C:/qt/Tools/mingw730_64/bin/../lib/gcc/x86_64-w64-mingw32/7.3.0/include/c++/x86_64-w64-mingw32"/>
+					<Add directory="C:/qt/Tools/mingw730_64/bin/../lib/gcc/x86_64-w64-mingw32/7.3.0/include/c++/backward"/>
+					<Add directory="C:/qt/Tools/mingw730_64/bin/../lib/gcc/x86_64-w64-mingw32/7.3.0/include"/>
+					<Add directory="C:/qt/Tools/mingw730_64/bin/../lib/gcc/x86_64-w64-mingw32/7.3.0/include-fixed"/>
+					<Add directory="C:/qt/Tools/mingw730_64/bin/../lib/gcc/x86_64-w64-mingw32/7.3.0/../../../../x86_64-w64-mingw32/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="C:/qt/Tools/mingw730_64/bin/mingw32-make.exe -f &quot;C:/Users/Berne/Documents/Uhasselt/2e bachlor/Computer Graphics/ComputerGraphicsProject/cmake-build-debug/Makefile&quot;  VERBOSE=1 ComputerGraphicsProject"/>
+					<CompileFile command="C:/qt/Tools/mingw730_64/bin/mingw32-make.exe -f &quot;C:/Users/Berne/Documents/Uhasselt/2e bachlor/Computer Graphics/ComputerGraphicsProject/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="C:/qt/Tools/mingw730_64/bin/mingw32-make.exe -f &quot;C:/Users/Berne/Documents/Uhasselt/2e bachlor/Computer Graphics/ComputerGraphicsProject/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="C:/qt/Tools/mingw730_64/bin/mingw32-make.exe -f &quot;C:/Users/Berne/Documents/Uhasselt/2e bachlor/Computer Graphics/ComputerGraphicsProject/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="ComputerGraphicsProject/fast">
+				<Option output="C:/Users/Berne/Documents/Uhasselt/2e bachlor/Computer Graphics/ComputerGraphicsProject/cmake-build-debug/ComputerGraphicsProject.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="C:/Users/Berne/Documents/Uhasselt/2e bachlor/Computer Graphics/ComputerGraphicsProject/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add option="-DQT_WIDGETS_LIB"/>
+					<Add option="-DQT_GUI_LIB"/>
+					<Add option="-DQT_CORE_LIB"/>
+					<Add directory="C:/Users/Berne/Documents/Uhasselt/2e bachlor/Computer Graphics/ComputerGraphicsProject/cmake-build-debug"/>
+					<Add directory="C:/Users/Berne/Documents/Uhasselt/2e bachlor/Computer Graphics/ComputerGraphicsProject"/>
+					<Add directory="C:/Users/Berne/Documents/Uhasselt/2e bachlor/Computer Graphics/ComputerGraphicsProject/cmake-build-debug/ComputerGraphicsProject_autogen/include"/>
+					<Add directory="C:/qt/5.14.1/mingw73_64/include"/>
+					<Add directory="C:/qt/5.14.1/mingw73_64/include/QtWidgets"/>
+					<Add directory="C:/qt/5.14.1/mingw73_64/include/QtGui"/>
+					<Add directory="C:/qt/5.14.1/mingw73_64/include/QtANGLE"/>
+					<Add directory="C:/qt/5.14.1/mingw73_64/include/QtCore"/>
+					<Add directory="C:/qt/5.14.1/mingw73_64/./mkspecs/win32-g++"/>
+					<Add directory="C:/qt/Tools/mingw730_64/bin/../lib/gcc/x86_64-w64-mingw32/7.3.0/include/c++"/>
+					<Add directory="C:/qt/Tools/mingw730_64/bin/../lib/gcc/x86_64-w64-mingw32/7.3.0/include/c++/x86_64-w64-mingw32"/>
+					<Add directory="C:/qt/Tools/mingw730_64/bin/../lib/gcc/x86_64-w64-mingw32/7.3.0/include/c++/backward"/>
+					<Add directory="C:/qt/Tools/mingw730_64/bin/../lib/gcc/x86_64-w64-mingw32/7.3.0/include"/>
+					<Add directory="C:/qt/Tools/mingw730_64/bin/../lib/gcc/x86_64-w64-mingw32/7.3.0/include-fixed"/>
+					<Add directory="C:/qt/Tools/mingw730_64/bin/../lib/gcc/x86_64-w64-mingw32/7.3.0/../../../../x86_64-w64-mingw32/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="C:/qt/Tools/mingw730_64/bin/mingw32-make.exe -f &quot;C:/Users/Berne/Documents/Uhasselt/2e bachlor/Computer Graphics/ComputerGraphicsProject/cmake-build-debug/Makefile&quot;  VERBOSE=1 ComputerGraphicsProject/fast"/>
+					<CompileFile command="C:/qt/Tools/mingw730_64/bin/mingw32-make.exe -f &quot;C:/Users/Berne/Documents/Uhasselt/2e bachlor/Computer Graphics/ComputerGraphicsProject/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="C:/qt/Tools/mingw730_64/bin/mingw32-make.exe -f &quot;C:/Users/Berne/Documents/Uhasselt/2e bachlor/Computer Graphics/ComputerGraphicsProject/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="C:/qt/Tools/mingw730_64/bin/mingw32-make.exe -f &quot;C:/Users/Berne/Documents/Uhasselt/2e bachlor/Computer Graphics/ComputerGraphicsProject/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="edit_cache">
+				<Option working_dir="C:/Users/Berne/Documents/Uhasselt/2e bachlor/Computer Graphics/ComputerGraphicsProject/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="C:/qt/Tools/mingw730_64/bin/mingw32-make.exe -f &quot;C:/Users/Berne/Documents/Uhasselt/2e bachlor/Computer Graphics/ComputerGraphicsProject/cmake-build-debug/Makefile&quot;  VERBOSE=1 edit_cache"/>
+					<CompileFile command="C:/qt/Tools/mingw730_64/bin/mingw32-make.exe -f &quot;C:/Users/Berne/Documents/Uhasselt/2e bachlor/Computer Graphics/ComputerGraphicsProject/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="C:/qt/Tools/mingw730_64/bin/mingw32-make.exe -f &quot;C:/Users/Berne/Documents/Uhasselt/2e bachlor/Computer Graphics/ComputerGraphicsProject/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="C:/qt/Tools/mingw730_64/bin/mingw32-make.exe -f &quot;C:/Users/Berne/Documents/Uhasselt/2e bachlor/Computer Graphics/ComputerGraphicsProject/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="rebuild_cache">
+				<Option working_dir="C:/Users/Berne/Documents/Uhasselt/2e bachlor/Computer Graphics/ComputerGraphicsProject/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="C:/qt/Tools/mingw730_64/bin/mingw32-make.exe -f &quot;C:/Users/Berne/Documents/Uhasselt/2e bachlor/Computer Graphics/ComputerGraphicsProject/cmake-build-debug/Makefile&quot;  VERBOSE=1 rebuild_cache"/>
+					<CompileFile command="C:/qt/Tools/mingw730_64/bin/mingw32-make.exe -f &quot;C:/Users/Berne/Documents/Uhasselt/2e bachlor/Computer Graphics/ComputerGraphicsProject/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="C:/qt/Tools/mingw730_64/bin/mingw32-make.exe -f &quot;C:/Users/Berne/Documents/Uhasselt/2e bachlor/Computer Graphics/ComputerGraphicsProject/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="C:/qt/Tools/mingw730_64/bin/mingw32-make.exe -f &quot;C:/Users/Berne/Documents/Uhasselt/2e bachlor/Computer Graphics/ComputerGraphicsProject/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="ComputerGraphicsProject_autogen">
+				<Option working_dir="C:/Users/Berne/Documents/Uhasselt/2e bachlor/Computer Graphics/ComputerGraphicsProject/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="C:/qt/Tools/mingw730_64/bin/mingw32-make.exe -f &quot;C:/Users/Berne/Documents/Uhasselt/2e bachlor/Computer Graphics/ComputerGraphicsProject/cmake-build-debug/Makefile&quot;  VERBOSE=1 ComputerGraphicsProject_autogen"/>
+					<CompileFile command="C:/qt/Tools/mingw730_64/bin/mingw32-make.exe -f &quot;C:/Users/Berne/Documents/Uhasselt/2e bachlor/Computer Graphics/ComputerGraphicsProject/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="C:/qt/Tools/mingw730_64/bin/mingw32-make.exe -f &quot;C:/Users/Berne/Documents/Uhasselt/2e bachlor/Computer Graphics/ComputerGraphicsProject/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="C:/qt/Tools/mingw730_64/bin/mingw32-make.exe -f &quot;C:/Users/Berne/Documents/Uhasselt/2e bachlor/Computer Graphics/ComputerGraphicsProject/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+		</Build>
+		<Unit filename="C:/Users/Berne/Documents/Uhasselt/2e bachlor/Computer Graphics/ComputerGraphicsProject/camera.cpp">
+			<Option target="ComputerGraphicsProject"/>
+		</Unit>
+		<Unit filename="C:/Users/Berne/Documents/Uhasselt/2e bachlor/Computer Graphics/ComputerGraphicsProject/camera.h">
+			<Option target="ComputerGraphicsProject"/>
+		</Unit>
+		<Unit filename="C:/Users/Berne/Documents/Uhasselt/2e bachlor/Computer Graphics/ComputerGraphicsProject/cmake-build-debug/ComputerGraphicsProject_autogen/mocs_compilation.cpp">
+			<Option target="ComputerGraphicsProject"/>
+		</Unit>
+		<Unit filename="C:/Users/Berne/Documents/Uhasselt/2e bachlor/Computer Graphics/ComputerGraphicsProject/glwidget.cpp">
+			<Option target="ComputerGraphicsProject"/>
+		</Unit>
+		<Unit filename="C:/Users/Berne/Documents/Uhasselt/2e bachlor/Computer Graphics/ComputerGraphicsProject/glwidget.h">
+			<Option target="ComputerGraphicsProject"/>
+		</Unit>
+		<Unit filename="C:/Users/Berne/Documents/Uhasselt/2e bachlor/Computer Graphics/ComputerGraphicsProject/main.cpp">
+			<Option target="ComputerGraphicsProject"/>
+		</Unit>
+		<Unit filename="C:/Users/Berne/Documents/Uhasselt/2e bachlor/Computer Graphics/ComputerGraphicsProject/mainwindow.cpp">
+			<Option target="ComputerGraphicsProject"/>
+		</Unit>
+		<Unit filename="C:/Users/Berne/Documents/Uhasselt/2e bachlor/Computer Graphics/ComputerGraphicsProject/mainwindow.h">
+			<Option target="ComputerGraphicsProject"/>
+		</Unit>
+		<Unit filename="C:/Users/Berne/Documents/Uhasselt/2e bachlor/Computer Graphics/ComputerGraphicsProject/model.cpp">
+			<Option target="ComputerGraphicsProject"/>
+		</Unit>
+		<Unit filename="C:/Users/Berne/Documents/Uhasselt/2e bachlor/Computer Graphics/ComputerGraphicsProject/model.h">
+			<Option target="ComputerGraphicsProject"/>
+		</Unit>
+		<Unit filename="C:/Users/Berne/Documents/Uhasselt/2e bachlor/Computer Graphics/ComputerGraphicsProject/CMakeLists.txt">
+			<Option virtualFolder="CMake Files\"/>
+		</Unit>
+		<Unit filename="C:/Users/Berne/Documents/Uhasselt/2e bachlor/Computer Graphics/ComputerGraphicsProject/../../../../../../../qt/5.14.1/mingw73_64/lib/cmake/Qt5Widgets/Qt5WidgetsConfig.cmake">
+			<Option virtualFolder="CMake Files\..\..\..\..\..\..\..\qt\5.14.1\mingw73_64\lib\cmake\Qt5Widgets\"/>
+		</Unit>
+		<Unit filename="C:/Users/Berne/Documents/Uhasselt/2e bachlor/Computer Graphics/ComputerGraphicsProject/../../../../../../../qt/5.14.1/mingw73_64/lib/cmake/Qt5Widgets/Qt5WidgetsConfigExtras.cmake">
+			<Option virtualFolder="CMake Files\..\..\..\..\..\..\..\qt\5.14.1\mingw73_64\lib\cmake\Qt5Widgets\"/>
+		</Unit>
+		<Unit filename="C:/Users/Berne/Documents/Uhasselt/2e bachlor/Computer Graphics/ComputerGraphicsProject/../../../../../../../qt/5.14.1/mingw73_64/lib/cmake/Qt5Widgets/Qt5WidgetsConfigVersion.cmake">
+			<Option virtualFolder="CMake Files\..\..\..\..\..\..\..\qt\5.14.1\mingw73_64\lib\cmake\Qt5Widgets\"/>
+		</Unit>
+		<Unit filename="C:/Users/Berne/Documents/Uhasselt/2e bachlor/Computer Graphics/ComputerGraphicsProject/../../../../../../../qt/5.14.1/mingw73_64/lib/cmake/Qt5Widgets/Qt5WidgetsMacros.cmake">
+			<Option virtualFolder="CMake Files\..\..\..\..\..\..\..\qt\5.14.1\mingw73_64\lib\cmake\Qt5Widgets\"/>
+		</Unit>
+		<Unit filename="C:/Users/Berne/Documents/Uhasselt/2e bachlor/Computer Graphics/ComputerGraphicsProject/../../../../../../../qt/5.14.1/mingw73_64/lib/cmake/Qt5Widgets/Qt5Widgets_QWindowsVistaStylePlugin.cmake">
+			<Option virtualFolder="CMake Files\..\..\..\..\..\..\..\qt\5.14.1\mingw73_64\lib\cmake\Qt5Widgets\"/>
+		</Unit>
+		<Unit filename="C:/Users/Berne/Documents/Uhasselt/2e bachlor/Computer Graphics/ComputerGraphicsProject/../../../../../../../qt/5.14.1/mingw73_64/lib/cmake/Qt5Gui/Qt5GuiConfig.cmake">
+			<Option virtualFolder="CMake Files\..\..\..\..\..\..\..\qt\5.14.1\mingw73_64\lib\cmake\Qt5Gui\"/>
+		</Unit>
+		<Unit filename="C:/Users/Berne/Documents/Uhasselt/2e bachlor/Computer Graphics/ComputerGraphicsProject/../../../../../../../qt/5.14.1/mingw73_64/lib/cmake/Qt5Gui/Qt5GuiConfigExtras.cmake">
+			<Option virtualFolder="CMake Files\..\..\..\..\..\..\..\qt\5.14.1\mingw73_64\lib\cmake\Qt5Gui\"/>
+		</Unit>
+		<Unit filename="C:/Users/Berne/Documents/Uhasselt/2e bachlor/Computer Graphics/ComputerGraphicsProject/../../../../../../../qt/5.14.1/mingw73_64/lib/cmake/Qt5Gui/Qt5GuiConfigVersion.cmake">
+			<Option virtualFolder="CMake Files\..\..\..\..\..\..\..\qt\5.14.1\mingw73_64\lib\cmake\Qt5Gui\"/>
+		</Unit>
+		<Unit filename="C:/Users/Berne/Documents/Uhasselt/2e bachlor/Computer Graphics/ComputerGraphicsProject/../../../../../../../qt/5.14.1/mingw73_64/lib/cmake/Qt5Gui/Qt5Gui_QGifPlugin.cmake">
+			<Option virtualFolder="CMake Files\..\..\..\..\..\..\..\qt\5.14.1\mingw73_64\lib\cmake\Qt5Gui\"/>
+		</Unit>
+		<Unit filename="C:/Users/Berne/Documents/Uhasselt/2e bachlor/Computer Graphics/ComputerGraphicsProject/../../../../../../../qt/5.14.1/mingw73_64/lib/cmake/Qt5Gui/Qt5Gui_QICNSPlugin.cmake">
+			<Option virtualFolder="CMake Files\..\..\..\..\..\..\..\qt\5.14.1\mingw73_64\lib\cmake\Qt5Gui\"/>
+		</Unit>
+		<Unit filename="C:/Users/Berne/Documents/Uhasselt/2e bachlor/Computer Graphics/ComputerGraphicsProject/../../../../../../../qt/5.14.1/mingw73_64/lib/cmake/Qt5Gui/Qt5Gui_QICOPlugin.cmake">
+			<Option virtualFolder="CMake Files\..\..\..\..\..\..\..\qt\5.14.1\mingw73_64\lib\cmake\Qt5Gui\"/>
+		</Unit>
+		<Unit filename="C:/Users/Berne/Documents/Uhasselt/2e bachlor/Computer Graphics/ComputerGraphicsProject/../../../../../../../qt/5.14.1/mingw73_64/lib/cmake/Qt5Gui/Qt5Gui_QJpegPlugin.cmake">
+			<Option virtualFolder="CMake Files\..\..\..\..\..\..\..\qt\5.14.1\mingw73_64\lib\cmake\Qt5Gui\"/>
+		</Unit>
+		<Unit filename="C:/Users/Berne/Documents/Uhasselt/2e bachlor/Computer Graphics/ComputerGraphicsProject/../../../../../../../qt/5.14.1/mingw73_64/lib/cmake/Qt5Gui/Qt5Gui_QMinimalIntegrationPlugin.cmake">
+			<Option virtualFolder="CMake Files\..\..\..\..\..\..\..\qt\5.14.1\mingw73_64\lib\cmake\Qt5Gui\"/>
+		</Unit>
+		<Unit filename="C:/Users/Berne/Documents/Uhasselt/2e bachlor/Computer Graphics/ComputerGraphicsProject/../../../../../../../qt/5.14.1/mingw73_64/lib/cmake/Qt5Gui/Qt5Gui_QOffscreenIntegrationPlugin.cmake">
+			<Option virtualFolder="CMake Files\..\..\..\..\..\..\..\qt\5.14.1\mingw73_64\lib\cmake\Qt5Gui\"/>
+		</Unit>
+		<Unit filename="C:/Users/Berne/Documents/Uhasselt/2e bachlor/Computer Graphics/ComputerGraphicsProject/../../../../../../../qt/5.14.1/mingw73_64/lib/cmake/Qt5Gui/Qt5Gui_QSvgIconPlugin.cmake">
+			<Option virtualFolder="CMake Files\..\..\..\..\..\..\..\qt\5.14.1\mingw73_64\lib\cmake\Qt5Gui\"/>
+		</Unit>
+		<Unit filename="C:/Users/Berne/Documents/Uhasselt/2e bachlor/Computer Graphics/ComputerGraphicsProject/../../../../../../../qt/5.14.1/mingw73_64/lib/cmake/Qt5Gui/Qt5Gui_QSvgPlugin.cmake">
+			<Option virtualFolder="CMake Files\..\..\..\..\..\..\..\qt\5.14.1\mingw73_64\lib\cmake\Qt5Gui\"/>
+		</Unit>
+		<Unit filename="C:/Users/Berne/Documents/Uhasselt/2e bachlor/Computer Graphics/ComputerGraphicsProject/../../../../../../../qt/5.14.1/mingw73_64/lib/cmake/Qt5Gui/Qt5Gui_QTgaPlugin.cmake">
+			<Option virtualFolder="CMake Files\..\..\..\..\..\..\..\qt\5.14.1\mingw73_64\lib\cmake\Qt5Gui\"/>
+		</Unit>
+		<Unit filename="C:/Users/Berne/Documents/Uhasselt/2e bachlor/Computer Graphics/ComputerGraphicsProject/../../../../../../../qt/5.14.1/mingw73_64/lib/cmake/Qt5Gui/Qt5Gui_QTiffPlugin.cmake">
+			<Option virtualFolder="CMake Files\..\..\..\..\..\..\..\qt\5.14.1\mingw73_64\lib\cmake\Qt5Gui\"/>
+		</Unit>
+		<Unit filename="C:/Users/Berne/Documents/Uhasselt/2e bachlor/Computer Graphics/ComputerGraphicsProject/../../../../../../../qt/5.14.1/mingw73_64/lib/cmake/Qt5Gui/Qt5Gui_QTuioTouchPlugin.cmake">
+			<Option virtualFolder="CMake Files\..\..\..\..\..\..\..\qt\5.14.1\mingw73_64\lib\cmake\Qt5Gui\"/>
+		</Unit>
+		<Unit filename="C:/Users/Berne/Documents/Uhasselt/2e bachlor/Computer Graphics/ComputerGraphicsProject/../../../../../../../qt/5.14.1/mingw73_64/lib/cmake/Qt5Gui/Qt5Gui_QWbmpPlugin.cmake">
+			<Option virtualFolder="CMake Files\..\..\..\..\..\..\..\qt\5.14.1\mingw73_64\lib\cmake\Qt5Gui\"/>
+		</Unit>
+		<Unit filename="C:/Users/Berne/Documents/Uhasselt/2e bachlor/Computer Graphics/ComputerGraphicsProject/../../../../../../../qt/5.14.1/mingw73_64/lib/cmake/Qt5Gui/Qt5Gui_QWebpPlugin.cmake">
+			<Option virtualFolder="CMake Files\..\..\..\..\..\..\..\qt\5.14.1\mingw73_64\lib\cmake\Qt5Gui\"/>
+		</Unit>
+		<Unit filename="C:/Users/Berne/Documents/Uhasselt/2e bachlor/Computer Graphics/ComputerGraphicsProject/../../../../../../../qt/5.14.1/mingw73_64/lib/cmake/Qt5Gui/Qt5Gui_QWindowsDirect2DIntegrationPlugin.cmake">
+			<Option virtualFolder="CMake Files\..\..\..\..\..\..\..\qt\5.14.1\mingw73_64\lib\cmake\Qt5Gui\"/>
+		</Unit>
+		<Unit filename="C:/Users/Berne/Documents/Uhasselt/2e bachlor/Computer Graphics/ComputerGraphicsProject/../../../../../../../qt/5.14.1/mingw73_64/lib/cmake/Qt5Gui/Qt5Gui_QWindowsIntegrationPlugin.cmake">
+			<Option virtualFolder="CMake Files\..\..\..\..\..\..\..\qt\5.14.1\mingw73_64\lib\cmake\Qt5Gui\"/>
+		</Unit>
+		<Unit filename="C:/Users/Berne/Documents/Uhasselt/2e bachlor/Computer Graphics/ComputerGraphicsProject/../../../../../../../qt/5.14.1/mingw73_64/lib/cmake/Qt5Gui/Qt5Gui_QXdgDesktopPortalThemePlugin.cmake">
+			<Option virtualFolder="CMake Files\..\..\..\..\..\..\..\qt\5.14.1\mingw73_64\lib\cmake\Qt5Gui\"/>
+		</Unit>
+		<Unit filename="C:/Users/Berne/Documents/Uhasselt/2e bachlor/Computer Graphics/ComputerGraphicsProject/../../../../../../../qt/5.14.1/mingw73_64/lib/cmake/Qt5Core/Qt5CoreConfig.cmake">
+			<Option virtualFolder="CMake Files\..\..\..\..\..\..\..\qt\5.14.1\mingw73_64\lib\cmake\Qt5Core\"/>
+		</Unit>
+		<Unit filename="C:/Users/Berne/Documents/Uhasselt/2e bachlor/Computer Graphics/ComputerGraphicsProject/../../../../../../../qt/5.14.1/mingw73_64/lib/cmake/Qt5Core/Qt5CoreConfigExtras.cmake">
+			<Option virtualFolder="CMake Files\..\..\..\..\..\..\..\qt\5.14.1\mingw73_64\lib\cmake\Qt5Core\"/>
+		</Unit>
+		<Unit filename="C:/Users/Berne/Documents/Uhasselt/2e bachlor/Computer Graphics/ComputerGraphicsProject/../../../../../../../qt/5.14.1/mingw73_64/lib/cmake/Qt5Core/Qt5CoreConfigExtrasMkspecDir.cmake">
+			<Option virtualFolder="CMake Files\..\..\..\..\..\..\..\qt\5.14.1\mingw73_64\lib\cmake\Qt5Core\"/>
+		</Unit>
+		<Unit filename="C:/Users/Berne/Documents/Uhasselt/2e bachlor/Computer Graphics/ComputerGraphicsProject/../../../../../../../qt/5.14.1/mingw73_64/lib/cmake/Qt5Core/Qt5CoreConfigVersion.cmake">
+			<Option virtualFolder="CMake Files\..\..\..\..\..\..\..\qt\5.14.1\mingw73_64\lib\cmake\Qt5Core\"/>
+		</Unit>
+		<Unit filename="C:/Users/Berne/Documents/Uhasselt/2e bachlor/Computer Graphics/ComputerGraphicsProject/../../../../../../../qt/5.14.1/mingw73_64/lib/cmake/Qt5Core/Qt5CoreMacros.cmake">
+			<Option virtualFolder="CMake Files\..\..\..\..\..\..\..\qt\5.14.1\mingw73_64\lib\cmake\Qt5Core\"/>
+		</Unit>
+	</Project>
+</CodeBlocks_project_file>

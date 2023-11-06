@@ -1,0 +1,4 @@
+C:/Users/Berne/Documents/Uhasselt/2e bachlor/Computer Graphics/ComputerGraphicsProject/cmake-build-debug/CMakeFiles/ComputerGraphicsProject.dir
+C:/Users/Berne/Documents/Uhasselt/2e bachlor/Computer Graphics/ComputerGraphicsProject/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/Berne/Documents/Uhasselt/2e bachlor/Computer Graphics/ComputerGraphicsProject/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+C:/Users/Berne/Documents/Uhasselt/2e bachlor/Computer Graphics/ComputerGraphicsProject/cmake-build-debug/CMakeFiles/ComputerGraphicsProject_autogen.dir
